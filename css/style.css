@@ -1,38 +1,4 @@
 
-/*------------------------------------------------------------------
-* Project:        Nirman
-* Author:         CN-InfoTech
-* URL:            hthttps://themeforest.net/user/cn-infotech
-* Created:        3/22/2019
--------------------------------------------------------------------
-
-- // TABLE OF CONTENTS // -
-
-========================================================================
- 
-
- # Landing Page
- ===============================================
- 1) Header
- 2) Banner
- 3) About
- 4) Services
- 5) project
- 6) Team
- 7) Fun And Fact 
- 8) Choose Us 
- 9) FAQ & Testimonial
- 10) Get Started
- 11) Partner
- 12) Newsletter 
- 13) Footer
- 14) Error
- 15) ComingSoon
- 16) Events
- 17) Worker Homepage
- 18) Video Homepage
- 19) Industry Homepage
-
 /* ====================== */
 /*         Header         */
 /* ====================== */
@@ -109,7 +75,7 @@ header#inner-navigation {
     margin-top: 14px;
 }
 
-.navbar-nav-wrapper{padding-right: 50px;}
+/* .navbar-nav-wrapper{padding-right: 50px;} */
 
 #inner-navigation .nav.navbar-nav > li > a{color: #fff; font-size: 16px; letter-spacing: 0;}
 
