@@ -455,9 +455,10 @@ section{padding:75px 0 80px; position: relative; overflow: hidden;}
 
 /*heading title*/
 
-.section_heading{margin:0 0px 4rem; padding-right: 30%;}
+.section_heading{margin:0 0px 4rem; text-align: center;} /* было padding-right: 30%;*/
 
 .section_heading h2.section_title{
+    display: inline-block; /* добавил */
     position: relative;
     padding-left: 25px;
 }
