@@ -1513,7 +1513,7 @@ a.contact:hover {
 .choose-list i {
     position: absolute;
     left: -27px;
-    top: 30%;
+    top: 10%; /* было 30% */
     background: #ffac00;
     border-radius: 5px;
     padding: 10px;
