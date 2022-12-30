@@ -1501,17 +1501,9 @@ section#choose_us{
 }
 
 a.email {
-  text-decoration: none;
   font-size: 21px;
   font-weight: 600;
-  color: #110729;
-  font-family: 'Open Sans', sans-serif;
-  margin-top: 0;
-  line-height: 1.5;
-}
-a.email:hover {
-  text-decoration: none;
-  color: #ca8903;
+  line-height: 2;
 }
 
 .choose-list h3{margin-bottom: 10px;} 
