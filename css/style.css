@@ -1504,6 +1504,8 @@ a.email {
   font-size: 21px;
   font-weight: 600;
   line-height: 1.9;
+  text-decoration: none;
+  color: #110729;
 }
 
 .choose-list h3{margin-bottom: 10px;} 
