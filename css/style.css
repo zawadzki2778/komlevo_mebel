@@ -1503,7 +1503,7 @@ section#choose_us{
 a.email {
   font-size: 21px;
   font-weight: 600;
-  line-height: 2;
+  line-height: 1.9;
 }
 
 .choose-list h3{margin-bottom: 10px;} 
@@ -1533,7 +1533,7 @@ a.email {
 
   section#choose_us{padding-bottom: 0;}
 
-  .choose-list i{top: 24%;}
+  .choose-list i{top: 12%;}
 
   .mission-image img{width: auto;}
 }
@@ -1542,7 +1542,7 @@ a.email {
 
   .choose-list{padding-left: 100px;}
 
-  .choose-list i{left: 27px; top: 25%;}
+  .choose-list i{left: 27px; top: 10%;}
 }
 
 /* ====================== */
