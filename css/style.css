@@ -255,8 +255,11 @@ background-color: #FFFFFF !important;
       color: #ffac00;
   }
 
-   #inner-navigation .slicknav_nav{height: 280px; top: 74px; overflow-y: scroll;}
-
+   #inner-navigation .slicknav_nav {
+    height: 280px; 
+    top: 106px; 
+    overflow-y: scroll;
+  }
 }
 
 @media only screen and (max-width: 767px) {
