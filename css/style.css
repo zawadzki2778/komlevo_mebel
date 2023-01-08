@@ -531,6 +531,11 @@ background-color: #FFFFFF !important;
     }
 }
 
+@media (max-width: 388px) {
+  #inner-navigation .logo a {
+    font-size: 32px;
+  }
+}
 
 /**
  * Sticky Header
