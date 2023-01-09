@@ -314,7 +314,7 @@ background-color: #FFFFFF !important;
 }
 @media(max-width: 639px) {
   #inner-navigation .slicknav_nav { 
-    height: 320px;
+    height: 282px;
   }
 }
 
@@ -534,6 +534,9 @@ background-color: #FFFFFF !important;
 @media (max-width: 388px) {
   #inner-navigation .logo a {
     font-size: 32px;
+  }
+  .container {
+    height: 104,56px;
   }
 }
 
