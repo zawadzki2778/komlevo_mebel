@@ -2778,7 +2778,7 @@
 
 .slicknav_nav {
   position: absolute;
-  top: 74px;
+  /* top: 74px; */
   left: 0;
   right: 0;
   background: #1F1D26;
@@ -2858,13 +2858,11 @@
 @media only screen and (max-width: 991px) {
 
   .slicknav_nav {
-    top: 90px;
+    /* top: 90px; */
   }
 }
 
 @media (max-width: 767px) {
-
-
   .slicknav_btn {
     top: 18px;
   }

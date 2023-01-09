@@ -256,8 +256,8 @@ background-color: #FFFFFF !important;
   }
 
    #inner-navigation .slicknav_nav {
-    height: 280px; 
-    top: 106px; 
+    /* height: 280px; 
+    top: 106px;  */
     overflow-y: scroll;
   }
 }
@@ -310,7 +310,10 @@ background-color: #FFFFFF !important;
 }
 
 @media(max-width: 736px) {
-  #inner-navigation .slicknav_nav{height: 250px; overflow-y:scroll; }
+  #inner-navigation .slicknav_nav {
+    /* height: 250px;  */
+    overflow-y:scroll; 
+  }
 }
 @media(max-width: 639px) {
   #inner-navigation .slicknav_nav { 
@@ -534,9 +537,6 @@ background-color: #FFFFFF !important;
 @media (max-width: 388px) {
   #inner-navigation .logo a {
     font-size: 32px;
-  }
-  .container {
-    height: 104,56px;
   }
 }
 
