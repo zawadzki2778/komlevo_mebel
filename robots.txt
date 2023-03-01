@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /images/
+Allow: /icons/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Host: https://komlevo-mebel.ru/
+Sitemap: https://komlevo-mebel.ru/sitemap.xml
