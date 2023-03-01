@@ -710,6 +710,13 @@ div#home-banner:before {
 /*         About          */
 /* ====================== */
 
+section.about {
+  padding-bottom: 0px;
+}
+p.about-company {
+  font-size: 18px;
+}
+
 #mt_about {
     position: relative;
     padding:100px 0 35px;
