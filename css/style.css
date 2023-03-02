@@ -713,7 +713,12 @@ div#home-banner:before {
 section.about {
   padding-bottom: 0px;
 }
+.about-block {
+  background: #ffac00;
+  padding: 40px;
+}
 p.about-company {
+  color: #fff;
   font-size: 18px;
   text-indent: 35px;
 }
@@ -1761,7 +1766,11 @@ section#mt_faq-testi .section_heading{padding: 0;}
     position: absolute;
     top: 0;
     left: 0;
-    width: 50%;
+    width: 70%;
+}
+
+p.watch_text {
+  font-size: 18px;
 }
 
 .watch_inner img {
